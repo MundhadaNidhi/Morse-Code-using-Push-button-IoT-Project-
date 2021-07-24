@@ -1,1 +1,2 @@
 # Morse-Code-using-Push-button-IoT-Project-
+This project describes the creation of a morse code system wherein input morse code through the pushbutton is given and the message decoded is shown at the output screen. The morse code uses dashes and dots combinatons to represent alphabets. Giving these combinations through the push button by pressing it for some time or a longer time, and the number of times the push button is pressed, gives us the decoded code on the serial monitor of the arduino software. The major components are the NodeMCU and the push button.
